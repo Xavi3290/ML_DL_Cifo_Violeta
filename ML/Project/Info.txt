@@ -1,0 +1,4 @@
+https://www.kaggle.com/code/rodrigoabaz/prediccion-precio-futuro-bitcoin-series-de-tiempo
+https://www.coingecko.com/es/api
+https://cienciadedatos.net/documentos/py41-forecasting-criptomoneda-bitcoin-machine-learning-python.html
+https://medium.com/@fernando.alfonso.diaz/datos-hist%C3%B3ricos-de-bitcoin-desde-la-api-p%C3%BAblica-de-binance-com-63087562ad73
